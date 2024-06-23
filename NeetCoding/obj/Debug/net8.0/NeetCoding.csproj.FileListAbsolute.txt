@@ -1,0 +1,14 @@
+/Users/macbookpro/RiderProjects/NeetCoding/NeetCoding/bin/Debug/net8.0/NeetCoding
+/Users/macbookpro/RiderProjects/NeetCoding/NeetCoding/bin/Debug/net8.0/NeetCoding.deps.json
+/Users/macbookpro/RiderProjects/NeetCoding/NeetCoding/bin/Debug/net8.0/NeetCoding.runtimeconfig.json
+/Users/macbookpro/RiderProjects/NeetCoding/NeetCoding/bin/Debug/net8.0/NeetCoding.dll
+/Users/macbookpro/RiderProjects/NeetCoding/NeetCoding/bin/Debug/net8.0/NeetCoding.pdb
+/Users/macbookpro/RiderProjects/NeetCoding/NeetCoding/obj/Debug/net8.0/NeetCoding.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/RiderProjects/NeetCoding/NeetCoding/obj/Debug/net8.0/NeetCoding.AssemblyInfoInputs.cache
+/Users/macbookpro/RiderProjects/NeetCoding/NeetCoding/obj/Debug/net8.0/NeetCoding.AssemblyInfo.cs
+/Users/macbookpro/RiderProjects/NeetCoding/NeetCoding/obj/Debug/net8.0/NeetCoding.csproj.CoreCompileInputs.cache
+/Users/macbookpro/RiderProjects/NeetCoding/NeetCoding/obj/Debug/net8.0/NeetCoding.dll
+/Users/macbookpro/RiderProjects/NeetCoding/NeetCoding/obj/Debug/net8.0/refint/NeetCoding.dll
+/Users/macbookpro/RiderProjects/NeetCoding/NeetCoding/obj/Debug/net8.0/NeetCoding.pdb
+/Users/macbookpro/RiderProjects/NeetCoding/NeetCoding/obj/Debug/net8.0/NeetCoding.genruntimeconfig.cache
+/Users/macbookpro/RiderProjects/NeetCoding/NeetCoding/obj/Debug/net8.0/ref/NeetCoding.dll
